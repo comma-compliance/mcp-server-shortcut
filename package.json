@@ -43,6 +43,14 @@
 		"pino-http": "^10.3.0",
 		"zod": "^3.25.76"
 	},
+	"overrides": {
+		"axios": "^1.16.0",
+		"fast-uri": "^3.1.2",
+		"form-data": "^4.0.6",
+		"hono": "^4.12.25",
+		"ip-address": "^10.1.1",
+		"qs": "^6.15.2"
+	},
 	"scripts": {
 		"test": "bun test",
 		"format": "biome check --write ./",
