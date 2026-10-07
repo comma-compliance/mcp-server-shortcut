@@ -34,12 +34,13 @@
     "axios": "^1.20.0",
     "defu": "6.1.5",
     "express-rate-limit": "8.2.2",
-    "fast-uri": "^3.1.6",
+    "fast-uri": "^3.1.8",
     "form-data": "^4.0.6",
     "hono": "^4.13.5",
     "ip-address": "^10.2.2",
     "path-to-regexp": "0.1.13",
     "picomatch": "4.0.4",
+    "proxy-addr": "^2.0.8",
     "qs": "^6.16.0",
     "router": {
       "path-to-regexp": "8.4.0",
@@ -416,7 +417,7 @@
 
     "process-warning": ["process-warning@5.0.0", "", {}, "sha512-a39t9ApHNx2L4+HBnQKqxxHNs1r7KF+Intd8Q/g1bUh6q0WIp9voPXJ/x0j+ZL45KF1pJd9+q2jLIRMfvEshkA=="],
 
-    "proxy-addr": ["proxy-addr@2.0.7", "", { "dependencies": { "forwarded": "0.2.0", "ipaddr.js": "1.9.1" } }, ""],
+    "proxy-addr": ["proxy-addr@2.0.8", "", { "dependencies": { "forwarded": "0.2.0", "ipaddr.js": "1.9.1" } }, "sha512-5nnx0yGyVUcY6t9RnWcARWtwT9F1D8O9rt08htPvnd49W1IgZtmLkhu9WfMzQj1cFxjHIO6connUNVW5k7AVyQ=="],
 
     "proxy-from-env": ["proxy-from-env@2.1.0", "", {}, "sha512-cJ+oHTW1VAEa8cJslgmUZrc+sjRKgAKl3Zyse6+PV38hZe/V6Z14TbCuXcan9F9ghlz4QrFr2c92TNF82UkYHA=="],
 
